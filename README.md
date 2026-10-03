@@ -4,7 +4,7 @@
 
 > *I see cities in data.*
 
-I build data pipelines, AI/ML-powered dashboards, and geospatial systems that turn raw utility and spatial data into decisions. 19+ years across geospatial data engineering, full-stack development, and utility asset management — currently leading GIS at one of Nigeria's largest power-distribution utilities and consulting through **PoloSoft Technology Nigeria**.
+I build data pipelines, AI/ML-powered dashboards, and geospatial systems that turn raw utility and spatial data into decisions. My experience spans geospatial data engineering, full-stack development, and utility asset management — currently leading GIS at one of Nigeria's largest power-distribution utilities and consulting through **PoloSoft Technology Nigeria**.
 
 - 🌍 Based in Lagos, Nigeria
 - 🔭 Building AI/ML-driven geospatial analytics & asset-intelligence platforms
