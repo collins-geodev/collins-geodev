@@ -54,3 +54,26 @@ I build data pipelines, AI/ML-powered dashboards, and geospatial systems that tu
 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+**[Asset Monitoring Dashboard (Showcase)](https://github.com/collins-geodev/ie-asset-dashboard-showcase)** · [Live demo](https://collins-geodev.github.io/ie-asset-dashboard-showcase/)
+GIS dashboard for a power-distribution network: transformer map (Leaflet canvas renderer), layered 33/11 kV network view with feeder tracing, metering analytics and cross-filtered KPIs. Built on synthetic data from a seeded Python generator.
+
+**[Portfolio](https://github.com/collins-geodev/portfolio-profile)** · [Visit site](https://portfolio-collins-anyanwu.vercel.app/)
+Personal portfolio showcasing geospatial, data engineering and dashboard projects (TypeScript, Next.js).
+
+**[Nexus Calculator](https://github.com/collins-geodev/nexus-calculator)**
+Single-page web app with calculators for arithmetic, scientific functions, currency and metric conversion, loans and taxes.
+
+---
+
+## 📫 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-collins-anyanwu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collinsanyanwu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collins.tochi@gmail.com)
