@@ -13,7 +13,7 @@ I build data pipelines, AI/ML-powered dashboards, and geospatial systems that tu
 - 🌍 Based in Lagos, Nigeria
 - 🔭 Building AI/ML-driven geospatial analytics & asset-intelligence platforms
 - 🌱 Exploring conservation data science — geospatial ML for the Niger Delta mangroves
-- 🎓 M.Sc. GIS (University of Lagos) · B.Tech Geology (FUTO)
+- 🎓 Master’s in GIS (University of Lagos) · B.Tech Geology (FUTO)
 
 
 ---
@@ -46,6 +46,7 @@ I build data pipelines, AI/ML-powered dashboards, and geospatial systems that tu
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
